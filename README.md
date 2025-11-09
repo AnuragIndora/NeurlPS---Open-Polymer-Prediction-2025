@@ -1,7 +1,7 @@
 # 🧪 NeurIPS 2025: Open Polymer Prediction Challenge
 
 **🥈 Silver Medal | Top 50 (Rank #50 / Score: 0.087)**  
-**Competition:** [NeurIPS 2025 – Open Polymer Prediction](https://www.kaggle.com/competitions/neurips-2025-open-polymer-prediction)
+**Competition:** [NeurIPS 2025 – Open Polymer Prediction](https://www.kaggle.com/competitions/neurips-open-polymer-prediction-2025)
 
 ---
 
