@@ -83,5 +83,5 @@ A huge thanks to:
 
 ---
 
-**Author:** [AK](https://www.kaggle.com/evilak09)  
+**Author:** [Anurag](https://www.kaggle.com/evilak09)  
 **Competition:** [NeurIPS 2025 – Open Polymer Prediction](https://www.kaggle.com/competitions/neurips-open-polymer-prediction-2025)
